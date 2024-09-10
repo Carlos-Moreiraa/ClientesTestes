@@ -1,0 +1,6 @@
+@ClientesTrinity_HostAddress = http://localhost:5115
+
+GET {{ClientesTrinity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
